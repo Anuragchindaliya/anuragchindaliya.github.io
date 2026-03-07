@@ -1,36 +1,88 @@
-This is nextjs project with typescript tailwind with sorting of classnames
+# Anurag | Senior Frontend Developer
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge" alt="Experience">
+  <img src="https://img.shields.io/badge/Role-Frontend%20Developer-green?style=for-the-badge" alt="Role">
+  <img src="https://img.shields.io/badge/Focus-Engineering%20Excellence-orange?style=for-the-badge" alt="Focus">
+</p>
 
-## Getting Started
+## 🚀 Introduction
+Hello! I'm **Anurag**, a seasoned **Senior Frontend Developer** with over **5 years of experience** in building scalable, high-performance web and mobile applications. I specialize in crafting intuitive user experiences using modern JavaScript frameworks and engineering best practices. My approach combines technical rigor with a deep understanding of product goals to deliver impactful solutions.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## 🏗️ What I'm Currently Working On
+- 🔭 Enhancing a high-performance **Portfolio Dashboard** with 3D interactions using Three.js and Framer Motion.
+- ⚡ Optimizing state management workflows using **Redux Toolkit** and **RTK Query** for enterprise-scale applications.
+- 📱 Exploring advanced patterns in **React Native** for seamless cross-platform experiences.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Next.js, Redux Toolkit, RTK Query |
+| **Mobile** | React Native, Expo |
+| **Styling** | Tailwind CSS, ShadCN UI, Framer Motion, GSAP |
+| **Backend** | Node.js, Express, REST APIs |
+| **Tools** | Git, Docker, Postman, Figma |
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+---
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 🌟 Featured Projects
 
-## Learn More
+### 1. Smart QR Code Scanner (React Native)
+A sophisticated mobile application featuring a smart scanner with real-time link detection and safety validation.
+- **Key Features:** Instant URL preview, history tracking, and secure browsing integration.
+- **Tech:** React Native, Vision Camera, TypeScript.
 
-To learn more about Next.js, take a look at the following resources:
+### 2. Intelligent OCR Text Extractor
+A high-accuracy OCR solution for extracting text from complex documents and images.
+- **Key Features:** Batch processing, multi-language support, and clean text exporting.
+- **Tech:** React, Tesseract.js, Tailwind CSS.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 3. Dynamic Form Builder (React & Form.io)
+An enterprise-grade form builder allowing users to create complex, JSON-driven forms similar to Google Forms.
+- **Key Features:** Drag-and-drop interface, real-time validation, and dynamic schema generation.
+- **Tech:** React, Form.io, Redux Toolkit.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 4. Background Remover Tool (React Native)
+A performance-optimized tool for seamless background removal from images directly on mobile devices.
+- **Key Features:** Edge detection, high-resolution output, and offline processing.
+- **Tech:** React Native, ML Kit, TypeScript.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🧠 Engineering Principles
+- **Clean Code:** Prioritizing readability and maintainability through SOLID principles and design patterns.
+- **Performance First:** Relentless focus on core web vitals, bundle size optimization, and efficient rendering.
+- **Scalability:** Designing systems that grow with the user base and feature sets.
+- **Accessibility (A11y):** Ensuring digital experiences are inclusive and usable by everyone.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anuragchindaliya&show_icons=true&theme=transparent#gh-dark-mode-only" alt="Anurag's GitHub Stats" />
+</p>
+
+---
+
+## 🎯 Learning Goals
+- 🤖 Deepening knowledge in **AI integration** for frontend workflows.
+- 🧱 Master **WebAssembly (WASM)** for high-compute browser tasks.
+- 🎨 Perfecting **3D Web Graphics** with advanced Three.js shaders.
+
+---
+
+## 📫 Contact Information
+- **LinkedIn:** [anurag-chindaliya](https://www.linkedin.com/in/anurag-chindaliya/)
+- **GitHub:** [@Anuragchindaliya](https://github.com/Anuragchindaliya/)
+- **Email:** [anuragwebpoint@gmail.com](mailto:anuragwebpoint@gmail.com)
+- **Location:** Faridabad, India
+
+---
+<p align="center">
+  Built with ❤️ by Anurag
+</p>
+
