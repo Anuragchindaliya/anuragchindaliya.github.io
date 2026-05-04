@@ -77,6 +77,8 @@ const HomeContent = ({ posts }: { posts: PostI[] }) => {
 
           <Project posts={posts} />
           {/* <AuroraBackground> */}
+          {/* <ClientsPage /> */}
+
           <Skills />
 
           {/* Smooth Transition Gradient */}
