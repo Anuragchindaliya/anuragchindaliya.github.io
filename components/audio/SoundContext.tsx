@@ -7,6 +7,7 @@ const SOUNDS = {
     click: 'https://res.cloudinary.com/dmx6fffxi/video/upload/v1769360257/computer-mouse-click-02-383961_iz2ue0.mp3',
     whoosh: 'https://res.cloudinary.com/dmx6fffxi/video/upload/v1769360686/short-woosh-109592_tbsfvz.mp3',
     longWoosh: "https://res.cloudinary.com/dmx6fffxi/video/upload/v1769444893/long-woosh.mp3",
+    soothing: "https://res.cloudinary.com/dmx6fffxi/video/upload/v1778003041/cfl_turningpages-belem-breeze-487596_rjbwy9.ogg",
     //static: "https://assets.mixkit.co/sfx/preview/mixkit-static-buzz-1118.mp3",
 };
 
@@ -57,7 +58,7 @@ export const SoundProvider = ({ children }: { children: React.ReactNode }) => {
 
     // Initialize ambient sound
     useEffect(() => {
-        const audio = new Audio(SOUNDS.spaceHum);
+        const audio = new Audio(SOUNDS.soothing);
         audio.loop = true;
         audio.volume = isMuted ? 0 : volume * 0.3; // Ambient is quieter
         ambientRef.current = audio;
