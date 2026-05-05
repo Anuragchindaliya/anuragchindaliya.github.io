@@ -1,6 +1,7 @@
 import { BackgroundBeams } from "@/components/ui/background-beams";
 import { LampContainer } from "@/components/ui/lamp";
 import { Spotlight } from "@/components/ui/Spotlight";
+import { ContactSection } from "@/components/v2/portfolio/ContactSection";
 import { motion } from "framer-motion";
 import fs from "fs";
 import matter from "gray-matter";
@@ -82,7 +83,7 @@ const HomeContent = ({ posts }: { posts: PostI[] }) => {
           <Skills />
 
           {/* Smooth Transition Gradient */}
-          <div className="w-full h-40 bg-gradient-to-b from-transparent to-gray-900 dark:to-gray-900 relative z-20 -mt-20 pointer-events-none" />
+          <div className="w-full h-40 bg-gradient-to-b from-transparent to-gray-900 dark:to-neutral-950 relative z-20 -mt-20 pointer-events-none" />
         </div>
       </main>
 
@@ -106,8 +107,11 @@ const HomeContent = ({ posts }: { posts: PostI[] }) => {
           Thankyou for <br />
           visiting
         </motion.h1>
-
       </LampContainer>
+
+      <div className="bg-neutral-950 w-full relative z-50">
+        <ContactSection />
+      </div>
     </>
   );
 };

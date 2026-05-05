@@ -6,6 +6,7 @@ import {
 } from "framer-motion";
 import React, { useEffect, useRef, useState } from "react";
 import { experienceString } from "utils";
+import { ContactSection } from "../v2/portfolio/ContactSection";
 import { LampContainer } from "./lamp";
 
 interface TimelineEntry {
@@ -99,7 +100,7 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
                     />
                 </div>
             </div>
-            <div className="w-full h-40 bg-gradient-to-b from-transparent to-gray-900 dark:to-gray-900 relative z-20 -mt-20 pointer-events-none" />
+            <div className="w-full h-40 bg-gradient-to-b from-transparent to-gray-900 dark:to-neutral-950 relative z-20 -mt-20 pointer-events-none" />
             <LampContainer>
                 <motion.h1
                     initial={{ opacity: 0.5, y: 100 }}
@@ -115,6 +116,9 @@ export const Timeline = ({ data }: { data: TimelineEntry[] }) => {
                     reading
                 </motion.h1>
             </LampContainer>
+            <div className="bg-neutral-950 w-full relative z-50">
+                <ContactSection />
+            </div>
         </div>
     );
 };
